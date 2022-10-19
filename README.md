@@ -1,1 +1,1 @@
-# Kino React App
+# Kino React Root
